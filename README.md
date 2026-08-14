@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ChuaHanChong
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning MLOps in advanced
-- 💞️ I’m looking to collaborate on TensorFlow open-sourced project
-- 📫 How to reach me ...
+## Chua Han Chong (蔡汉宗)
 
-<!---
-ChuaHanChong/ChuaHanChong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student at [MMLab@NTU](https://www.mmlab-ntu.com/), College of Computing and Data Science, Nanyang Technological University.
+
+Working on embodied AI with spatial intelligence, through real-to-sim-to-real transfer and continual learning. Nine years building production AI before the PhD.
+
+[Website](https://chuahanchong.github.io) · [CV](https://chuahanchong.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/chuahanchong/)
