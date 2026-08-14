@@ -2,4 +2,4 @@
 
 PhD student at [MMLab@NTU](https://www.mmlab-ntu.com/), working on embodied AI with spatial intelligence.
 
-[Website](https://chuahanchong.github.io) · [CV](https://chuahanchong.github.io/cv/)
+[Personal Website](https://chuahanchong.github.io) · [CV](https://chuahanchong.github.io/cv/)
